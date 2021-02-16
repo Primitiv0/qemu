@@ -136,9 +136,11 @@ qtests_sparc64 = \
 
 qtests_npcm7xx = \
   ['npcm7xx_adc-test',
+   'npcm7xx_emc-test',
    'npcm7xx_gpio-test',
    'npcm7xx_pwm-test',
    'npcm7xx_rng-test',
+   'npcm7xx_smbus-test',
    'npcm7xx_timer-test',
    'npcm7xx_watchdog_timer-test']
 qtests_arm = \
